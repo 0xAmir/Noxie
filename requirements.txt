@@ -1,0 +1,3 @@
+pyfiglet==0.7.5
+colorama==0.3.7
+requests==2.9.1
